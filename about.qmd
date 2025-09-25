@@ -1,19 +1,20 @@
 ---
-title: "Sobre"
-image: profile.jpg
+title: "Sobre mim"
+image: "./myself.jpeg"
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
+    - icon: instagram
+      text: Instagram
+      href: https://instagram.com/matheussmd
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-    - icon: github
-      text: Github
-      href: https://github.com
+      href: https://www.linkedin.com/in/matheus-de-castro-5a6593268/
+
 
 ---
 
-About this blog
+
+Sou estudante do Bacharelado em Ciências da Computação pela Universidade Federal da Bahia, entusiasta de jogos, música e tecnologia, com interesse particular em Engenharia de Software.
+
+Sinta se livre para se conectar comigo de alguma forma! 
