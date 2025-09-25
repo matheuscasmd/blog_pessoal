@@ -1,26 +1,26 @@
 ---
-title: "Build of the Week: Gemling Legionnaire + Fireball"
+title: "Build da Semana: Gemling Legionnaire + Fireball"
 author: "Matheus de Castro"
 date: "2025-09-21"
 categories: [games,path of exile]
 ---
 
-This build shines as a refreshing option, combining projectile damage, fire damage, and Fire Avatar to enhance spell combos with Fireball.
+Esta build se destaca como uma opção refrescante, combinando dano de projétil, dano de fogo e Fire Avatar para potencializar os combos de feitiço com Fireball.
 
 ![](thumbnail.png)
 
-### Overview
+## Overview
 
-The main interaction of this build, compared to more traditional magic-focused classes, is the abundance of fire damage passives near the beginning of the character's skill tree. Additionally, with the new Gemling Ascendancy passives, it becomes even more viable to invest heavily in INT while maintaining at least 100 STR.
+A principal interação dessa build, em relação ao uso de classes mais focadas em magia, é a quantidade de passivas de dano de fogo próximas ao início da árvore de habilidades do personagem. Além disso, com as novas passivas da ascensão Gemling, torna-se ainda mais viável investir bastante em INT, mantendo pelo menos 100 de força.
 
-### Clearing
+## Clearing
 
-Using the Fireball and Snap spells, you can apply multiple fire infusions and launch empowered fireballs almost continuously, especially when factoring in support gems and Spirit-based modifiers related to infusions.
+Utilizando os feitiços Fireball e Snap, você consegue aplicar várias infusões de fogo e lançar bolas de fogo fortalecidas praticamente o tempo todo, especialmente ao contar com as gemas de suporte e modificadores relacionados a Spirit e infusão.
 
-### Bosses
+## Bosses
 
-Boss fights rely heavily on the Lightning Orb combo to generate lightning infusions, along with Mana Tempest and Ember Fusillade. The lightning infusion deals massive damage, but be careful when standing inside buff zones, as you become more vulnerable there.
+As lutas contra chefes dependem principalmente do combo Lightning Orb para gerar infusões de raio, junto com Mana Tempest e Ember Fusillade. A infusão de raio gera um dano gigantesco, mas é preciso tomar cuidado ao ficar dentro das zonas de fortalecimento, pois você se torna mais vulnerável.
 
-### Skills and Support Gems
+## Habilidades e Gemas de Suporte
 
-*(To be filled in later)*
+*(A ser preenchido depois)*
