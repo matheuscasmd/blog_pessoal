@@ -1,0 +1,8 @@
+#!/bin/sh
+
+commit_message=$(cat "$1")
+
+if ! echo "$commit_message" | grep -qE "^(feat|refactor|styles|build):"; then
+    echo "❌ Commit falhou!! Cumpra com os commits semânticos, use feat: | refactor: | styles: | build:"
+    exit 1
+fi
