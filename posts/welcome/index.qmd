@@ -1,12 +1,26 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2025-09-21"
-categories: [news]
+title: "Boas vindas ao Bloogle!"
+author: "Matheus de Castro"
+date: "2025-09-20"
+categories: [primeiros passos]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Informações gerais acerca do blog e seu funcionamento
 
 ![](thumbnail.jpg)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+### Proposta
+
+O Bloogle é uma variante de blog pessoal em que selecionei assuntos do meu interesse para expor em forma de publicações.  
+Os tópicos são variados e, no geral, vão abranger as seguintes categorias:
+
+- **Games**  
+- **Música**  
+- **Desenvolvimento de Software**
+- **Tecnologia**  
+- **Experiências Pessoais**
+
+### Como navegar
+
+As postagens serão organizadas por categorias e datas, permitindo que você encontre facilmente conteúdos de seu interesse. 
+s
