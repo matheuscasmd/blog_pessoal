@@ -3,7 +3,7 @@ title: "Feed"
 listing:
   contents: posts
   feed: true
-  sort: "date desc"
+  sort: "date asc"
   type: default
   categories: true
   sort-ui: false
