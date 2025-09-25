@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Blooogle</title>
+<link>https://your-website-url.example.com/</link>
+<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<description>Blog pessoal construído com Quarto</description>
+<generator>quarto-1.8.24</generator>
+<lastBuildDate>Tue, 23 Sep 2025 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Um gênero musical curioso</title>
+  <dc:creator>Matheus de Castro</dc:creator>
+  <link>https://your-website-url.example.com/posts/divorced_dad_core/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Um olhar sobre um estilo que mistura nostalgia, melancolia e guitarras pesadas.</p>
+<p><img src="https://your-website-url.example.com/posts/divorced_dad_core/thumbnail.png" class="img-fluid"></p>
+<section id="o-que-é-o-divorced-dad-rock" class="level3">
+<h3 class="anchored" data-anchor-id="o-que-é-o-divorced-dad-rock">O que é o Divorced Dad Rock?</h3>
+<p>O termo “Divorced Dad Rock” é mais uma brincadeira cultural do que um gênero musical oficial.</p>
+<p>Descreve um estilo de rock alternativo e post-grunge que se tornou popular no início dos anos 2000, caracterizado por riffs marcantes, vocais emotivos e letras muitas vezes introspectivas sobre relacionamentos, frustrações e rotina.</p>
+</section>
+<section id="bandas-que-você-deveria-escutar-e-seus-principais-hits" class="level3">
+<h3 class="anchored" data-anchor-id="bandas-que-você-deveria-escutar-e-seus-principais-hits">Bandas que você deveria escutar e seus principais hits</h3>
+<ul>
+<li><strong>Deftones</strong>: “Change (In the House of Flies)”, “Kimdracula”<br>
+</li>
+<li><strong>Seether</strong>: “Broken”, “Fine Again”<br>
+</li>
+<li><strong>Creed</strong>: “With Arms Wide Open”, “Higher”<br>
+</li>
+<li><strong>Chevelle</strong>: “Jars”, “Send the Pain Below”<br>
+</li>
+<li><strong>Staind</strong>: “Outside”, “For you”<br>
+</li>
+<li><strong>A Perfect Circle</strong>: “Gravity”, “Orestes”</li>
+</ul>
+</section>
+<section id="sobre-o-público-ouvinte" class="level3">
+<h3 class="anchored" data-anchor-id="sobre-o-público-ouvinte">Sobre o público ouvinte</h3>
+<p>Por mais paradoxal que pareça, poucos são realmente pais e muito menos divorciados.</p>
+<p>O estilo está ligado à nostalgia e à cultura do rock mainstream do início dos anos 2000, muitas vezes associada a fãs que cresceram com essas bandas e ainda curtem a vibe introspectiva.</p>
+<p>Além disso, existe uma curiosa conexão com a cultura de academia e hábitos como consumo de energéticos sobretudo o Monster, mas tudo isso de forma mais estereotípica do que literal, em publicações de redes sociais como o instagram.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>música</category>
+  <category>rock</category>
+  <guid>https://your-website-url.example.com/posts/divorced_dad_core/</guid>
+  <pubDate>Tue, 23 Sep 2025 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Build da Semana: Gemling Legionnaire + Fireball</title>
+  <dc:creator>Matheus de Castro</dc:creator>
+  <link>https://your-website-url.example.com/posts/poebuild/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Esta build se destaca como uma opção refrescante, combinando dano de projétil, dano de fogo e Fire Avatar para potencializar os combos de feitiço com Fireball.</p>
+<p><img src="https://your-website-url.example.com/posts/poebuild/thumbnail.png" class="img-fluid"></p>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>A principal interação dessa build, em relação ao uso de classes mais focadas em magia, é a quantidade de passivas de dano de fogo próximas ao início da árvore de habilidades do personagem. Além disso, com as novas passivas da ascensão Gemling, torna-se ainda mais viável investir bastante em INT, mantendo pelo menos 100 de força.</p>
+</section>
+<section id="mapping" class="level2">
+<h2 class="anchored" data-anchor-id="mapping">Mapping</h2>
+<p>Utilizando os feitiços Fireball e Snap, você consegue aplicar várias infusões de fogo e lançar bolas de fogo fortalecidas praticamente o tempo todo, especialmente ao contar com as gemas de suporte e modificadores relacionados a Spirit e infusão.</p>
+</section>
+<section id="bosses" class="level2">
+<h2 class="anchored" data-anchor-id="bosses">Bosses</h2>
+<p>As lutas contra chefes dependem principalmente do combo Lightning Orb para gerar infusões de raio, junto com Mana Tempest e Ember Fusillade. A infusão de raio gera um dano gigantesco, mas é preciso tomar cuidado ao ficar dentro das zonas de fortalecimento, pois você se torna mais vulnerável.</p>
+</section>
+<section id="habilidades-e-gemas-de-suporte" class="level2">
+<h2 class="anchored" data-anchor-id="habilidades-e-gemas-de-suporte">Habilidades e Gemas de Suporte</h2>
+<section id="fireball" class="level3">
+<h3 class="anchored" data-anchor-id="fireball">Fireball</h3>
+<ul>
+<li><strong>Socket 1</strong>: Ignite III</li>
+<li><strong>Socket 2</strong>: Fire Exposure</li>
+<li><strong>Socket 3</strong>: Nova Projectiles</li>
+<li><strong>Socket 4</strong>: Projectile Acceleration</li>
+<li><strong>Socket 5</strong>: Wildfire</li>
+</ul>
+</section>
+<section id="ember-fusillade" class="level3">
+<h3 class="anchored" data-anchor-id="ember-fusillade">Ember Fusillade</h3>
+<ul>
+<li><strong>Socket 1</strong>: Faster Casting</li>
+<li><strong>Socket 2</strong>: Elemental Discharge</li>
+<li><strong>Socket 3</strong>: Controlled Destruction</li>
+<li><strong>Socket 4</strong>: Variável</li>
+<li><strong>Socket 5</strong>: Variável</li>
+</ul>
+</section>
+<section id="convalescence-defesa" class="level3">
+<h3 class="anchored" data-anchor-id="convalescence-defesa">Convalescence (Defesa)</h3>
+<ul>
+<li><strong>Obrigatório apenas Prolonged Duration</strong></li>
+</ul>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>games</category>
+  <category>path of exile</category>
+  <guid>https://your-website-url.example.com/posts/poebuild/</guid>
+  <pubDate>Mon, 22 Sep 2025 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Um pouco sobre Engenharia de Software</title>
+  <dc:creator>Matheus de Castro</dc:creator>
+  <link>https://your-website-url.example.com/posts/engenharia_software/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Apresentação das principais áreas da engenharia de software, além de referências bibliográficas que eu gosto</p>
+<p><img src="https://your-website-url.example.com/posts/engenharia_software/thumbnail.png" class="img-fluid"></p>
+<section id="visão-geral" class="level3">
+<h3 class="anchored" data-anchor-id="visão-geral">Visão geral</h3>
+<p>A Engenharia de Software é uma disciplina que combina princípios de ciência da computação, gestão de projetos e boas práticas de desenvolvimento para criar software de alta qualidade de forma previsível e sustentável. Ela envolve desde a concepção de requisitos, arquitetura e design, até implementação, testes, manutenção e evolução de sistemas.</p>
+<p>O objetivo central é reduzir riscos, aumentar a produtividade e garantir que o software atenda às expectativas dos usuários e requisitos de negócio. Além disso, a engenharia de software enfatiza práticas que promovem manutenibilidade, escalabilidade e confiabilidade.</p>
+</section>
+<section id="áreas-de-atuação" class="level3">
+<h3 class="anchored" data-anchor-id="áreas-de-atuação">Áreas de Atuação</h3>
+<p>Algumas das principais áreas de atuação dentro da engenharia de software incluem:</p>
+<ul>
+<li><strong>Desenvolvimento de Software</strong>: implementação de sistemas utilizando linguagens e frameworks modernos, aplicando princípios de design e arquitetura.<br>
+</li>
+<li><strong>Qualidade de Software e Testes</strong>: foco em garantir que o software funcione corretamente, incluindo testes automatizados, testes manuais e análise de desempenho.<br>
+</li>
+<li><strong>Arquitetura de Software</strong>: definição da estrutura geral de sistemas, padrões de design, escalabilidade e manutenção de grandes aplicações.<br>
+</li>
+<li><strong>Gestão de Projetos de Software</strong>: aplicação de metodologias ágeis, gestão de backlog, sprints, releases e integração contínua.<br>
+</li>
+<li><strong>DevOps e Entrega Contínua</strong>: integração de desenvolvimento e operações para automatizar deploys, monitoramento e manutenção de sistemas em produção.<br>
+</li>
+<li><strong>Pesquisa e Desenvolvimento</strong>: inovação em linguagens, frameworks, inteligência artificial aplicada a software e novas técnicas de engenharia.</li>
+</ul>
+</section>
+<section id="indicações-de-material" class="level3">
+<h3 class="anchored" data-anchor-id="indicações-de-material">Indicações de Material</h3>
+<ul>
+<li><strong>Engenharia de Software Moderna</strong> (Marco Tulio Valente): Trata de uma abordagem generalizada tentando aproximar o conteúdo extenso ao novo estudante de computação.</li>
+<li><strong>Entrega Contínua</strong>(Jez Humble, David Farley): Gosto de como ele faz o contraponto de questões como antipadrões e a forma com que deveria ser feito.</li>
+<li><strong>Código Limpo</strong> (Robert C. Martin): Possui questões interessantes ao longo do livro.</li>
+<li><strong>Domain-Driven Design: Atacando as Complexidades no Coração do Software</strong>(Eric Evans): Atualmente lendo esse livro e reconhecendo cada vez mais a importância de compreender as aplicações através do seu domínio.</li>
+<li><strong>Refatoração: Aperfeiçoando o Design de Códigos Existentes</strong> (Martin Fowler): Muito bem recomendado por todos, é a minha próxima leitura.</li>
+</ul>
+<p>Esses materiais ajudam a entender tanto a prática quanto a teoria da engenharia de software, servindo de referência para quem quer se aprofundar ou se manter atualizado no desenvolvimento de sistemas modernos.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>engenharia de software</category>
+  <category>opinião</category>
+  <category>desenvolvimento</category>
+  <category>referências</category>
+  <guid>https://your-website-url.example.com/posts/engenharia_software/</guid>
+  <pubDate>Sun, 21 Sep 2025 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Boas vindas ao Bloogle!</title>
+  <dc:creator>Matheus de Castro</dc:creator>
+  <link>https://your-website-url.example.com/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Informações gerais acerca do blog e seu funcionamento</p>
+<p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<section id="proposta" class="level3">
+<h3 class="anchored" data-anchor-id="proposta">Proposta</h3>
+<p>O Bloogle é uma variante de blog pessoal em que selecionei assuntos do meu interesse para expor em forma de publicações.<br>
+Os tópicos são variados e, no geral, vão abranger as seguintes categorias:</p>
+<ul>
+<li><strong>Games</strong><br>
+</li>
+<li><strong>Música</strong><br>
+</li>
+<li><strong>Desenvolvimento de Software</strong></li>
+<li><strong>Tecnologia</strong><br>
+</li>
+<li><strong>Experiências Pessoais</strong></li>
+</ul>
+</section>
+<section id="como-navegar" class="level3">
+<h3 class="anchored" data-anchor-id="como-navegar">Como navegar</h3>
+<p>As postagens serão organizadas por categorias e datas, permitindo que você encontre facilmente conteúdos de seu interesse.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>primeiros passos</category>
+  <guid>https://your-website-url.example.com/posts/welcome/</guid>
+  <pubDate>Sat, 20 Sep 2025 03:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
