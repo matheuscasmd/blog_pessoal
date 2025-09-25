@@ -10,7 +10,7 @@
 <atom:link href="https://matheuscasmd.github.io/blog_pessoal/index.xml" rel="self" type="application/rss+xml"/>
 <description>Blog pessoal construído com Quarto</description>
 <generator>quarto-1.8.24</generator>
-<lastBuildDate>Tue, 23 Sep 2025 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 23 Sep 2025 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Um gênero musical curioso</title>
   <dc:creator>Matheus de Castro</dc:creator>
@@ -57,7 +57,7 @@
   <category>música</category>
   <category>rock</category>
   <guid>https://matheuscasmd.github.io/blog_pessoal/posts/divorced_dad_core/</guid>
-  <pubDate>Tue, 23 Sep 2025 03:00:00 GMT</pubDate>
+  <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Build da Semana: Gemling Legionnaire + Fireball</title>
@@ -119,7 +119,7 @@
   <category>games</category>
   <category>path of exile</category>
   <guid>https://matheuscasmd.github.io/blog_pessoal/posts/poebuild/</guid>
-  <pubDate>Mon, 22 Sep 2025 03:00:00 GMT</pubDate>
+  <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Um pouco sobre Engenharia de Software</title>
@@ -175,7 +175,7 @@
   <category>desenvolvimento</category>
   <category>referências</category>
   <guid>https://matheuscasmd.github.io/blog_pessoal/posts/engenharia_software/</guid>
-  <pubDate>Sun, 21 Sep 2025 03:00:00 GMT</pubDate>
+  <pubDate>Sun, 21 Sep 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Boas vindas ao Bloogle!</title>
@@ -214,7 +214,7 @@ Os tópicos são variados e, no geral, vão abranger as seguintes categorias:</p
  ]]></description>
   <category>primeiros passos</category>
   <guid>https://matheuscasmd.github.io/blog_pessoal/posts/welcome/</guid>
-  <pubDate>Sat, 20 Sep 2025 03:00:00 GMT</pubDate>
+  <pubDate>Sat, 20 Sep 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
