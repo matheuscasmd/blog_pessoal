@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>Blooogle</title>
-<link>https://your-website-url.example.com/</link>
-<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://matheuscasmd.github.io/blog_pessoal/</link>
+<atom:link href="https://matheuscasmd.github.io/blog_pessoal/index.xml" rel="self" type="application/rss+xml"/>
 <description>Blog pessoal construído com Quarto</description>
 <generator>quarto-1.8.24</generator>
 <lastBuildDate>Tue, 23 Sep 2025 03:00:00 GMT</lastBuildDate>
 <item>
   <title>Um gênero musical curioso</title>
   <dc:creator>Matheus de Castro</dc:creator>
-  <link>https://your-website-url.example.com/posts/divorced_dad_core/</link>
+  <link>https://matheuscasmd.github.io/blog_pessoal/posts/divorced_dad_core/</link>
   <description><![CDATA[ 
 
 
@@ -22,7 +22,7 @@
 
 
 <p>Um olhar sobre um estilo que mistura nostalgia, melancolia e guitarras pesadas.</p>
-<p><img src="https://your-website-url.example.com/posts/divorced_dad_core/thumbnail.png" class="img-fluid"></p>
+<p><img src="https://matheuscasmd.github.io/blog_pessoal/posts/divorced_dad_core/thumbnail.png" class="img-fluid"></p>
 <section id="o-que-é-o-divorced-dad-rock" class="level3">
 <h3 class="anchored" data-anchor-id="o-que-é-o-divorced-dad-rock">O que é o Divorced Dad Rock?</h3>
 <p>O termo “Divorced Dad Rock” é mais uma brincadeira cultural do que um gênero musical oficial.</p>
@@ -56,13 +56,13 @@
  ]]></description>
   <category>música</category>
   <category>rock</category>
-  <guid>https://your-website-url.example.com/posts/divorced_dad_core/</guid>
+  <guid>https://matheuscasmd.github.io/blog_pessoal/posts/divorced_dad_core/</guid>
   <pubDate>Tue, 23 Sep 2025 03:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Build da Semana: Gemling Legionnaire + Fireball</title>
   <dc:creator>Matheus de Castro</dc:creator>
-  <link>https://your-website-url.example.com/posts/poebuild/</link>
+  <link>https://matheuscasmd.github.io/blog_pessoal/posts/poebuild/</link>
   <description><![CDATA[ 
 
 
@@ -70,7 +70,7 @@
 
 
 <p>Esta build se destaca como uma opção refrescante, combinando dano de projétil, dano de fogo e Fire Avatar para potencializar os combos de feitiço com Fireball.</p>
-<p><img src="https://your-website-url.example.com/posts/poebuild/thumbnail.png" class="img-fluid"></p>
+<p><img src="https://matheuscasmd.github.io/blog_pessoal/posts/poebuild/thumbnail.png" class="img-fluid"></p>
 <section id="overview" class="level2">
 <h2 class="anchored" data-anchor-id="overview">Overview</h2>
 <p>A principal interação dessa build, em relação ao uso de classes mais focadas em magia, é a quantidade de passivas de dano de fogo próximas ao início da árvore de habilidades do personagem. Além disso, com as novas passivas da ascensão Gemling, torna-se ainda mais viável investir bastante em INT, mantendo pelo menos 100 de força.</p>
@@ -118,13 +118,13 @@
  ]]></description>
   <category>games</category>
   <category>path of exile</category>
-  <guid>https://your-website-url.example.com/posts/poebuild/</guid>
+  <guid>https://matheuscasmd.github.io/blog_pessoal/posts/poebuild/</guid>
   <pubDate>Mon, 22 Sep 2025 03:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Um pouco sobre Engenharia de Software</title>
   <dc:creator>Matheus de Castro</dc:creator>
-  <link>https://your-website-url.example.com/posts/engenharia_software/</link>
+  <link>https://matheuscasmd.github.io/blog_pessoal/posts/engenharia_software/</link>
   <description><![CDATA[ 
 
 
@@ -132,7 +132,7 @@
 
 
 <p>Apresentação das principais áreas da engenharia de software, além de referências bibliográficas que eu gosto</p>
-<p><img src="https://your-website-url.example.com/posts/engenharia_software/thumbnail.png" class="img-fluid"></p>
+<p><img src="https://matheuscasmd.github.io/blog_pessoal/posts/engenharia_software/thumbnail.png" class="img-fluid"></p>
 <section id="visão-geral" class="level3">
 <h3 class="anchored" data-anchor-id="visão-geral">Visão geral</h3>
 <p>A Engenharia de Software é uma disciplina que combina princípios de ciência da computação, gestão de projetos e boas práticas de desenvolvimento para criar software de alta qualidade de forma previsível e sustentável. Ela envolve desde a concepção de requisitos, arquitetura e design, até implementação, testes, manutenção e evolução de sistemas.</p>
@@ -174,13 +174,13 @@
   <category>opinião</category>
   <category>desenvolvimento</category>
   <category>referências</category>
-  <guid>https://your-website-url.example.com/posts/engenharia_software/</guid>
+  <guid>https://matheuscasmd.github.io/blog_pessoal/posts/engenharia_software/</guid>
   <pubDate>Sun, 21 Sep 2025 03:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Boas vindas ao Bloogle!</title>
   <dc:creator>Matheus de Castro</dc:creator>
-  <link>https://your-website-url.example.com/posts/welcome/</link>
+  <link>https://matheuscasmd.github.io/blog_pessoal/posts/welcome/</link>
   <description><![CDATA[ 
 
 
@@ -188,7 +188,7 @@
 
 
 <p>Informações gerais acerca do blog e seu funcionamento</p>
-<p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p><img src="https://matheuscasmd.github.io/blog_pessoal/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
 <section id="proposta" class="level3">
 <h3 class="anchored" data-anchor-id="proposta">Proposta</h3>
 <p>O Bloogle é uma variante de blog pessoal em que selecionei assuntos do meu interesse para expor em forma de publicações.<br>
@@ -213,7 +213,7 @@ Os tópicos são variados e, no geral, vão abranger as seguintes categorias:</p
 
  ]]></description>
   <category>primeiros passos</category>
-  <guid>https://your-website-url.example.com/posts/welcome/</guid>
+  <guid>https://matheuscasmd.github.io/blog_pessoal/posts/welcome/</guid>
   <pubDate>Sat, 20 Sep 2025 03:00:00 GMT</pubDate>
 </item>
 </channel>
