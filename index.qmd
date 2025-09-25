@@ -1,5 +1,5 @@
 ---
-title: "blog_pessoal"
+title: "Feed"
 listing:
   contents: posts
   feed: true
