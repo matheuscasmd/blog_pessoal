@@ -13,7 +13,7 @@ Esta build se destaca como uma opção refrescante, combinando dano de projétil
 
 A principal interação dessa build, em relação ao uso de classes mais focadas em magia, é a quantidade de passivas de dano de fogo próximas ao início da árvore de habilidades do personagem. Além disso, com as novas passivas da ascensão Gemling, torna-se ainda mais viável investir bastante em INT, mantendo pelo menos 100 de força.
 
-## Clearing
+## Mapping
 
 Utilizando os feitiços Fireball e Snap, você consegue aplicar várias infusões de fogo e lançar bolas de fogo fortalecidas praticamente o tempo todo, especialmente ao contar com as gemas de suporte e modificadores relacionados a Spirit e infusão.
 
@@ -23,4 +23,21 @@ As lutas contra chefes dependem principalmente do combo Lightning Orb para gerar
 
 ## Habilidades e Gemas de Suporte
 
-*(A ser preenchido depois)*
+### Fireball
+- **Socket 1**: Ignite III
+- **Socket 2**: Fire Exposure
+- **Socket 3**: Nova Projectiles
+- **Socket 4**: Projectile Acceleration
+- **Socket 5**: Wildfire
+
+### Ember Fusillade
+- **Socket 1**: Faster Casting 
+- **Socket 2**: Elemental Discharge
+- **Socket 3**: Controlled Destruction
+- **Socket 4**: Variável
+- **Socket 5**: Variável
+
+
+### Convalescence (Defesa)
+
+- **Obrigatório apenas Prolonged Duration**
