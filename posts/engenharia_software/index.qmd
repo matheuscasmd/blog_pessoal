@@ -5,7 +5,7 @@ date: "2025-09-21"
 categories: [engenharia de software, opinião, desenvolvimento, referências]
 ---
 
-Apresentação das principais áreas da engenharia de software, com foco em referências bibliográficas que eu gosto
+Apresentação das principais áreas da engenharia de software, além de referências bibliográficas que eu gosto
 
 ![](thumbnail.png)
 
@@ -28,11 +28,10 @@ Algumas das principais áreas de atuação dentro da engenharia de software incl
 
 ### Indicações de Material
 
-- **Engenharia de Software Moderna** - Marco Tulio Valente  
-- **Entrega Contínua** - Jez Humble, David Farley  
-- **Código Limpo** - Robert C. Martin  
-- **Padrões de Projeto - Soluções Reutilizaveis de Software Orientado a Objetos** - Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides  
-- **Domain-Driven Design: Atacando as Complexidades no Coração do Software** - Eric Evans  
-- **Refatoração: Aperfeiçoando o Design de Códigos Existentes** - Martin Fowler  
+- **Engenharia de Software Moderna** (Marco Tulio Valente): Trata de uma abordagem generalizada tentando aproximar o conteúdo extenso ao novo estudante de computação.
+- **Entrega Contínua**(Jez Humble, David Farley): Gosto de como ele faz o contraponto de questões como antipadrões e a forma com que deveria ser feito.
+- **Código Limpo** (Robert C. Martin): Possui questões interessantes ao longo do livro.
+- **Domain-Driven Design: Atacando as Complexidades no Coração do Software**(Eric Evans): Atualmente lendo esse livro e reconhecendo cada vez mais a importância de compreender as aplicações através do seu domínio.
+- **Refatoração: Aperfeiçoando o Design de Códigos Existentes** (Martin Fowler): Muito bem recomendado por todos, é a minha próxima leitura.
 
 Esses materiais ajudam a entender tanto a prática quanto a teoria da engenharia de software, servindo de referência para quem quer se aprofundar ou se manter atualizado no desenvolvimento de sistemas modernos.
