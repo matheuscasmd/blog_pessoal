@@ -2,7 +2,7 @@
 
 commit_message=$(cat "$1")
 
-if ! echo "$commit_message" | grep -qE "^(feat|refactor|styles|build):"; then
-    echo "❌ Commit falhou!! Cumpra com os commits semânticos, use feat: | refactor: | styles: | build:"
+if ! echo "$commit_message" | grep -qE "^(feat|refactor|styles|build|fix):"; then
+    echo "❌ Commit falhou!! Cumpra com os commits semânticos, use feat: | refactor: | styles: | build: | fix"
     exit 1
 fi
